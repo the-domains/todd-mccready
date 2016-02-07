@@ -1,0 +1,28 @@
+name: Todd McCready
+favicon: null
+layout_spectrum: 0.975431123515591
+typography_spectrum: 0.06143122655339539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5379907982423902
+  lightness: 0.5096910079009831
+  saturation: 0.7031417139805853
+  rhythmicContrast: 0.6240646450314671
+purpose: []
